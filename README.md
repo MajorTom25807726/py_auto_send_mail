@@ -1,1 +1,2 @@
-# py_auto_send_mail
+#  這是python自動送信機器人的家
+-  這是沒有手機認證版的
